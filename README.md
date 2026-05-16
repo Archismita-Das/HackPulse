@@ -6,7 +6,7 @@ Built using React, Spring Boot, and MySQL, the platform provides role-based dash
 
 ---
 
-# ✨ Features
+#  Features
 
 ## 👨‍💼 Admin Dashboard
 
@@ -139,7 +139,7 @@ Then run the Spring Boot application.
 * Update database username/password in backend configuration
 
 
-# 🎯 Project Objective
+#  Project Objective
 
 The objective of HackPulse is to simulate a real-world hackathon management ecosystem where organizers, judges, and participants can interact through a centralized operational platform.
 
@@ -153,7 +153,7 @@ The system focuses on:
 
 ---
 
-# 👩‍💻 Developed By
+#  Developed By
 
 Archismita Das
 
